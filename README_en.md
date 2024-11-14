@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/HiddenCodeDevs/MemeFiWalletConnector-Docs/blob/main/README_en.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/HiddenCodeDevs/MemeFiWalletConnector-Docs/blob/main/README.md)
 <h1 align="center">User's Guide [EN]</h1>
 
 # <p align=center>Installation</p>
